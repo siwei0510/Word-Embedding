@@ -9,3 +9,4 @@ A work on Word Embedding
 3、训练Word2Vec模型  
 5、提取向量并降维  
 6、交互式可视化  
+（将html文件下载后打开，可以看到交互式可视化的结果）
